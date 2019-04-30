@@ -1,5 +1,5 @@
-# Named-entity-recognition
-### Assignment 2 - COL772(Spring'19): Natural Language Processing
+# Named Entity Recognition for Real Estate Text
+### Assignment 3 - COL772(Spring'19): Natural Language Processing
 #### Creator: Navreet Kaur[2015TT10917]
  
 #### Motivation:
