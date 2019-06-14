@@ -1,0 +1,7 @@
+Kartikeya Sharma, Sanyam Gupta
+
+Sources used:
+sklearn crfsuite tutorial - https://sklearn-crfsuite.readthedocs.io/en/latest/tutorial.html
+
+
+

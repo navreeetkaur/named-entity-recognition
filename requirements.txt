@@ -1,0 +1,3 @@
+pip install numpy scikit-learn
+pip install sklearn-crfsuite
+pip install nltk
